@@ -1,0 +1,13 @@
+===========================
+OpenCC - An Open C Compiler
+===========================
+
+-----
+About
+
+OpenCC Is a simple C Compiler written in C.
+
+This software is FREE; You can distribute or/and modify it without any warranty, copyright, or other.
+
+It is licensed under LGPL-3.0, allowing full redistribution, while for
+copies being able to not be required to be open source, or under GPL itself.

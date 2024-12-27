@@ -1,0 +1,10 @@
+/.vscode/
+/.idea/
+
+/obj/
+/bin/
+*.o
+*.exe
+
+*.log
+*.var
